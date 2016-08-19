@@ -1,0 +1,14 @@
+name: ryan.thorburn.me
+layout_spectrum: 0.13718064387540052
+typography_spectrum: 0.6405468248180191
+color:
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  brandStrength: 0.8593593337645464
+  lightness: 0.3603729793529947
+  saturation: 0.867267218432417
+  rhythmicContrast: 0.3287875576303031
